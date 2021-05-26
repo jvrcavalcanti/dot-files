@@ -1,0 +1,5 @@
+alias cls="clear"
+alias art="php7.4 artisan"
+alias python="python3"
+alias composer="php7.4 /usr/local/bin/composer"
+alias composer8="php8.0 /usr/local/bin/composer"
