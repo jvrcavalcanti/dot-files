@@ -1,4 +1,5 @@
 alias cls="clear"
+alias pest="./vendor/bin/pest"
 alias php-server="php -S localhost:8000"
 alias art="php artisan"
 alias python="python3"
