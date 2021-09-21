@@ -1,4 +1,5 @@
 alias cls="clear"
+alias home="cd /mnt/c/Users/jonny"
 alias pest="./vendor/bin/pest"
 alias php-server="php -S localhost:8000"
 alias art="php artisan"
