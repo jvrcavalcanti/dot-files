@@ -6,3 +6,4 @@ alias art="php artisan"
 alias python="python3"
 alias pip="pip3"
 alias composer="php /usr/local/bin/composer"
+alias mkcd='_mkcd(){ mkdir "$1"; cd "$1";}; _mkcd'
