@@ -170,4 +170,4 @@ function parse_git_dirty {
 export PS1="[\[\e[32m\]\t\[\e[m\]] \[\e[32m\]\u\[\e[m\]\[\e[32m\]@\[\e[m\]\[\e[32m\]\h\[\e[m\]:\[\e[36m\]\w\[\e[m\]\[\e[35m\]\`parse_git_branch\`\[\e[m\]\\n=========\\$ "
 export PATH=$HOME/.config/composer/vendor/bin:$PATH
 export CLASSPATH=".:/usr/local/lib/antlr-4.10.1-complete.jar:$CLASSPATH"
-export GHTOKEN="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"
+export GHTOKEN=""
